@@ -1,6 +1,8 @@
 # gke-cloud-sql
 Deployment Patterns for GKE &amp; CloudSQL
 
+Service Code [github.com/neilghosh/simple-node-service](https://github.com/neilghosh/simple-node-service)
+
 ## Cloud SQL Setup 
 
 ### Create a Cluster 
